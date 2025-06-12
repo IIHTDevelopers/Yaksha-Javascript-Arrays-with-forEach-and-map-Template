@@ -1,4 +1,4 @@
-npm install -> Will install all dependencies -> takes 10 to 15 min
+npm install --no-bin-links --unsafe-perm -> Will install all dependencies -> takes 10 to 15 min
 
 node src/index.js -> Will run the index.js file
 
